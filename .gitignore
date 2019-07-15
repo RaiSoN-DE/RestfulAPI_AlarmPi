@@ -1,5 +1,7 @@
 # JetBrains stuff
 .idea/
+.DS_Store
+.idea
 
 # Logs
 logs
